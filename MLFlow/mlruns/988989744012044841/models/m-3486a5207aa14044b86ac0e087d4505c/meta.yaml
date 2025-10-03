@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/aayush.verma/OneDrive%20-%20InnovaSolutions/Documents/Mucin%20Lurning/Mlflow/mlruns/988989744012044841/models/m-3486a5207aa14044b86ac0e087d4505c/artifacts
+creation_timestamp: 1759476679158
+experiment_id: '988989744012044841'
+last_updated_timestamp: 1759476695937
+model_id: m-3486a5207aa14044b86ac0e087d4505c
+model_type: ''
+name: LogisticRegression
+source_run_id: e05b5f87dff54f31b3d892287fb423d4
+status: 2
+status_message: null

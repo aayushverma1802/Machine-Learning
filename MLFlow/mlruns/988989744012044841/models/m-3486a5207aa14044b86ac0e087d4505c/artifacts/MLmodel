@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/aayush.verma/OneDrive%20-%20InnovaSolutions/Documents/Mucin%20Lurning/Mlflow/mlruns/988989744012044841/models/m-3486a5207aa14044b86ac0e087d4505c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-3486a5207aa14044b86ac0e087d4505c
+model_size_bytes: 831
+model_uuid: m-3486a5207aa14044b86ac0e087d4505c
+prompts: null
+run_id: e05b5f87dff54f31b3d892287fb423d4
+utc_time_created: '2025-10-03 07:31:19.308129'
